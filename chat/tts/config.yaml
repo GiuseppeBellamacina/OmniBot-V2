@@ -1,0 +1,8 @@
+tts_model : "tts_models/multilingual/multi-dataset/xtts_v2"
+speakers: ['Alexandra Hisakawa', 'Ana Florence', 'Asya Anara', 'Lilya Stainthorpe', 'Rosemary Okafor']
+speaker_index: 1
+max_tokens: 150
+limit: 2
+
+buffer_url: "http://localhost:8000/"
+maker_url: "http://localhost:9000/"
